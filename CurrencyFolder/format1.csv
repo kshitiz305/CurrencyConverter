@@ -1,0 +1,4 @@
+ID,SourceCurrency,DestinationCurrency,SourceAmount
+
+1,USD, EUR, 1000.00
+2,EUR, AUD, 2050.50

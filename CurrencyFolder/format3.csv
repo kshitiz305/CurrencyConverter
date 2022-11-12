@@ -1,0 +1,4 @@
+TrxId,CurrencyFrom,CurrencyTo,AmountFrom
+
+1,GBP, USD, 1928
+2,USD, EUR, 150000
